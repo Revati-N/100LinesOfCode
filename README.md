@@ -73,6 +73,7 @@ Browse our collection of 100+ mini-projects organized by category:
 - [Black Jack](./Black_Jack_Game) - Card game simulation
 - [Russian Roulette](./Russian%20Roulette) - Probability game
 - [Slot Machine](./slot-machine) - Casino-style slot game
+- [Typing Speed Tester CLI](./Typing-Speed-Tester-CLI)  - Terminal-based WPM and accuracy tester game
 
 ### Web Development
 - [Beautiful JS Clock](./Beautiful%20JS%20Clock) - Animated clock interface
